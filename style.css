@@ -1,0 +1,41 @@
+body {
+	background-color: white;
+}
+
+a {
+	text-decoration: none;
+	color: black;
+	display: flex;
+}
+
+nav {
+	display: flex;
+	position: fixed;
+	top: 0;
+}
+
+#signIn {
+	background-color: blue;
+	color: white;
+}
+
+footer {
+	display: flex;
+	position: fixed;
+	bottom: 0;
+	background-color: grey;
+}
+
+img {
+	left: 50%;
+}
+
+#search {
+	border-radius: 5;
+	border-color: grey;
+}
+
+.lucky {
+	color: black;
+	background-color: grey;
+}
